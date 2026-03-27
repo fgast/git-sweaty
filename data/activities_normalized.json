@@ -41416,5 +41416,18 @@
     "start_date_local": "2026-03-25T18:14:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 9017.2,
+    "elevation_gain": 196.0,
+    "id": "17868489125",
+    "moving_time": 3871.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T18:28:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
