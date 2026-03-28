@@ -41429,5 +41429,31 @@
     "start_date_local": "2026-03-26T18:28:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 27123.9,
+    "elevation_gain": 485.8,
+    "id": "17879370930",
+    "moving_time": 5046.0,
+    "name": "Mount Pleasant",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T17:26:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 18017.8,
+    "elevation_gain": 817.0,
+    "id": "17888637354",
+    "moving_time": 9250.0,
+    "name": "Traillauf zur Mittagszeit",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-28T11:54:55Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
