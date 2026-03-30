@@ -41455,5 +41455,18 @@
     "start_date_local": "2026-03-28T11:54:55Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 24671.5,
+    "elevation_gain": 295.4,
+    "id": "17903994995",
+    "moving_time": 5105.0,
+    "name": "MyWhoosh - Endurance #8",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-29T17:28:44Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
