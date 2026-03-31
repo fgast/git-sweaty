@@ -41468,5 +41468,31 @@
     "start_date_local": "2026-03-29T17:28:44Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 36699.5,
+    "elevation_gain": 593.6,
+    "id": "17914373467",
+    "moving_time": 6068.0,
+    "name": "MyWhoosh - Frostfire Vale",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-30T17:09:41Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 14241.0,
+    "elevation_gain": 35.0,
+    "id": "17923880960",
+    "moving_time": 1911.0,
+    "name": "MyWhoosh - Endurance #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-31T13:26:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
