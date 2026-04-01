@@ -28727,6 +28727,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17923880960",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 18,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17927811422",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 12,
+      "name": "Mittagslauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17935839352",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50267,6 +50285,24 @@
           "distance": 9017.2,
           "elevation_gain": 196.0,
           "moving_time": 3871.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17927811422"
+          ],
+          "count": 1,
+          "distance": 10024.0,
+          "elevation_gain": 62.0,
+          "moving_time": 3747.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17935839352"
+          ],
+          "count": 1,
+          "distance": 5010.0,
+          "elevation_gain": 34.0,
+          "moving_time": 2002.0
         }
       },
       "TrailRun": {
@@ -50583,7 +50619,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T16:00:12.844481+00:00",
+  "generated_at": "2026-04-01T16:02:27.085302+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
