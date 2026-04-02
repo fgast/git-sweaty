@@ -41520,5 +41520,31 @@
     "start_date_local": "2026-04-01T12:15:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 44927.1,
+    "elevation_gain": 257.4,
+    "id": "17941218072",
+    "moving_time": 6606.0,
+    "name": "MyWhoosh - Tri Endurance #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T18:23:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 12888.4,
+    "elevation_gain": 44.6,
+    "id": "17948984937",
+    "moving_time": 1838.0,
+    "name": "MyWhoosh - Intervals - Watt are they?",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-02T13:28:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
