@@ -41650,5 +41650,31 @@
     "start_date_local": "2026-04-07T16:11:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 29275.3,
+    "elevation_gain": 265.6,
+    "id": "18016541858",
+    "moving_time": 4301.0,
+    "name": "MyWhoosh - Endurance 12's #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-07T18:37:48Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 5008.8,
+    "elevation_gain": 41.0,
+    "id": "18025227080",
+    "moving_time": 1955.0,
+    "name": "Mittagslauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T12:32:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
