@@ -41676,5 +41676,31 @@
     "start_date_local": "2026-04-08T12:32:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 42274.1,
+    "elevation_gain": 213.2,
+    "id": "18031120779",
+    "moving_time": 6121.0,
+    "name": "MyWhoosh - 100min Spin 90 and 80",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-08T18:35:10Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 10596.8,
+    "elevation_gain": 33.6,
+    "id": "18038871561",
+    "moving_time": 1281.0,
+    "name": "MyWhoosh - Hudayriyat",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-09T12:24:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
