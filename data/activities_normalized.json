@@ -41702,5 +41702,31 @@
     "start_date_local": "2026-04-09T12:24:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 16062.1,
+    "elevation_gain": 1049.0,
+    "id": "18043787771",
+    "moving_time": 11379.0,
+    "name": "Traillauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-09T16:12:10Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 19094.1,
+    "elevation_gain": 138.6,
+    "id": "18053508110",
+    "moving_time": 2922.0,
+    "name": "MyWhoosh - Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-10T14:27:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
