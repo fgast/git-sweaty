@@ -41754,5 +41754,31 @@
     "start_date_local": "2026-04-12T11:37:37Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 27664.9,
+    "elevation_gain": 390.0,
+    "id": "18094703348",
+    "moving_time": 5456.0,
+    "name": "MyWhoosh - 100min Spin 90 and 80",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-13T18:46:52Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 14198.3,
+    "elevation_gain": 30.4,
+    "id": "18104643995",
+    "moving_time": 1820.0,
+    "name": "MyWhoosh - 30/15's #3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T15:04:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
