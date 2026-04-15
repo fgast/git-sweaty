@@ -28925,6 +28925,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18104643995",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 12,
+      "name": "Mittagslauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18116907609",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50528,6 +50537,15 @@
           "distance": 5008.8,
           "elevation_gain": 41.0,
           "moving_time": 1955.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18116907609"
+          ],
+          "count": 1,
+          "distance": 10143.0,
+          "elevation_gain": 98.0,
+          "moving_time": 3780.0
         }
       },
       "TrailRun": {
@@ -50981,7 +50999,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:03:12.536332+00:00",
+  "generated_at": "2026-04-15T16:00:02.042065+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
