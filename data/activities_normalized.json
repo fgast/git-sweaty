@@ -41793,5 +41793,31 @@
     "start_date_local": "2026-04-15T12:17:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 19609.1,
+    "elevation_gain": 388.2,
+    "id": "18121625915",
+    "moving_time": 4283.0,
+    "name": "MyWhoosh - Endurance 12's #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T18:25:57Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 13892.1,
+    "elevation_gain": 31.4,
+    "id": "18131491488",
+    "moving_time": 1913.0,
+    "name": "MyWhoosh - Endurance #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T14:23:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
