@@ -29006,6 +29006,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18175534877",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 17,
+      "name": "MyWhoosh - 100min Spin 90 and 80",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18186975184",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 12,
+      "name": "MyWhoosh - Mitochondria #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18195950333",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51099,6 +51117,24 @@
           "distance": 20928.0,
           "elevation_gain": 51.8,
           "moving_time": 2909.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18186975184"
+          ],
+          "count": 1,
+          "distance": 41454.2,
+          "elevation_gain": 155.2,
+          "moving_time": 6052.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18195950333"
+          ],
+          "count": 1,
+          "distance": 14929.5,
+          "elevation_gain": 56.6,
+          "moving_time": 1877.0
         }
       },
       "Walk": {
@@ -51143,7 +51179,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T16:02:50.405994+00:00",
+  "generated_at": "2026-04-21T16:05:47.329749+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

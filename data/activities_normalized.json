@@ -41897,5 +41897,31 @@
     "start_date_local": "2026-04-19T18:28:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 41454.2,
+    "elevation_gain": 155.2,
+    "id": "18186975184",
+    "moving_time": 6052.0,
+    "name": "MyWhoosh - 100min Spin 90 and 80",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-20T17:50:37Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 14929.5,
+    "elevation_gain": 56.6,
+    "id": "18195950333",
+    "moving_time": 1877.0,
+    "name": "MyWhoosh - Mitochondria #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T12:52:49Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
