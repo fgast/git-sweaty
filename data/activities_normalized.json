@@ -41936,5 +41936,44 @@
     "start_date_local": "2026-04-22T11:53:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 40439.0,
+    "elevation_gain": 263.0,
+    "id": "18214611298",
+    "moving_time": 5277.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-22T17:32:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 13860.5,
+    "elevation_gain": 73.0,
+    "id": "18223488084",
+    "moving_time": 1885.0,
+    "name": "MyWhoosh - Mitochondria #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-23T12:03:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 2618.5,
+    "elevation_gain": 64.0,
+    "id": "18239782506",
+    "moving_time": 2188.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-24T15:28:24Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
