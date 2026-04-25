@@ -29060,6 +29060,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18239782506",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 9,
+      "name": "UTVV Legionar 30k",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18252458604",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50782,6 +50791,15 @@
           "distance": 15406.8,
           "elevation_gain": 1115.0,
           "moving_time": 9907.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18252458604"
+          ],
+          "count": 1,
+          "distance": 30395.0,
+          "elevation_gain": 1839.0,
+          "moving_time": 19762.0
         }
       },
       "VirtualRide": {
@@ -51251,7 +51269,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:59:47.901314+00:00",
+  "generated_at": "2026-04-25T15:33:03.762337+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

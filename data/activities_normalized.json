@@ -41975,5 +41975,18 @@
     "start_date_local": "2026-04-24T15:28:24Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 30395.0,
+    "elevation_gain": 1839.0,
+    "id": "18252458604",
+    "moving_time": 19762.0,
+    "name": "UTVV Legionar 30k",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-25T09:45:18Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
