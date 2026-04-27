@@ -29069,6 +29069,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18252458604",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 19,
+      "name": "MyWhoosh - Active Recovery",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18270261908",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 15,
+      "name": "Lauf am Nachmittag",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18278144895",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50726,6 +50744,15 @@
           "distance": 7397.0,
           "elevation_gain": 109.0,
           "moving_time": 2727.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18278144895"
+          ],
+          "count": 1,
+          "distance": 7235.7,
+          "elevation_gain": 145.0,
+          "moving_time": 2833.0
         }
       },
       "TrailRun": {
@@ -51216,6 +51243,15 @@
           "distance": 13860.5,
           "elevation_gain": 73.0,
           "moving_time": 1885.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18270261908"
+          ],
+          "count": 1,
+          "distance": 17582.1,
+          "elevation_gain": 175.8,
+          "moving_time": 2926.0
         }
       },
       "Walk": {
@@ -51269,7 +51305,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:35:17.838098+00:00",
+  "generated_at": "2026-04-27T16:20:44.111070+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
