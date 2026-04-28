@@ -29087,6 +29087,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18278144895",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 15,
+      "name": "Lauf am Nachmittag",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18291867053",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50753,6 +50762,15 @@
           "distance": 7235.7,
           "elevation_gain": 145.0,
           "moving_time": 2833.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18291867053"
+          ],
+          "count": 1,
+          "distance": 8024.1,
+          "elevation_gain": 147.0,
+          "moving_time": 3205.0
         }
       },
       "TrailRun": {
@@ -51305,7 +51323,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T16:20:44.111070+00:00",
+  "generated_at": "2026-04-28T16:47:35.527434+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
