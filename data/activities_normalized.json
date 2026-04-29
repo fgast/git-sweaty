@@ -42027,5 +42027,18 @@
     "start_date_local": "2026-04-28T15:12:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 10400.0,
+    "elevation_gain": 183.0,
+    "id": "18301452960",
+    "moving_time": 4077.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-29T06:51:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
