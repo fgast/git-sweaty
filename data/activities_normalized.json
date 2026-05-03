@@ -42092,5 +42092,18 @@
     "start_date_local": "2026-05-01T12:22:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18351202512",
+    "moving_time": 9000.0,
+    "name": "Achensee",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-02T19:58:58Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

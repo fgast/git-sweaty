@@ -29141,6 +29141,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18331688952",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 19,
+      "name": "Achensee",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18351202512",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51409,11 +51418,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 11160.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18351202512"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9000.0
         }
       }
     }
   },
-  "generated_at": "2026-05-02T15:38:51.305115+00:00",
+  "generated_at": "2026-05-03T15:38:48.602686+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
