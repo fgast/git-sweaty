@@ -42105,5 +42105,31 @@
     "start_date_local": "2026-05-02T19:58:58Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18361886041",
+    "moving_time": 10200.0,
+    "name": "Attersee",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-03T14:58:34Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 8284.8,
+    "elevation_gain": 67.0,
+    "id": "18369758522",
+    "moving_time": 3006.0,
+    "name": "Mittagslauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-04T11:22:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
