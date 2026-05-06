@@ -42131,5 +42131,31 @@
     "start_date_local": "2026-05-04T11:22:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18389818470",
+    "moving_time": 9901.0,
+    "name": "Attersee",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-05T18:16:09Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18400037144",
+    "moving_time": 3600.0,
+    "name": "Attersee 100+",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-06T15:58:11Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
