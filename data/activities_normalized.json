@@ -42170,5 +42170,44 @@
     "start_date_local": "2026-05-07T19:58:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 29614.2,
+    "elevation_gain": 156.6,
+    "id": "18428434833",
+    "moving_time": 4305.0,
+    "name": "MyWhoosh - Mitochondria #5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-08T18:32:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 6932.0,
+    "elevation_gain": 108.0,
+    "id": "18435211775",
+    "moving_time": 2753.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T10:30:41Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 5227.9,
+    "elevation_gain": 61.0,
+    "id": "18437977623",
+    "moving_time": 955.0,
+    "name": "Gravel-Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-09T13:57:41Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
