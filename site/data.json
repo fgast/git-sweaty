@@ -29222,6 +29222,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18437977623",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 13,
+      "name": "Lauf am Nachmittag",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18451631189",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50960,6 +50969,15 @@
           "distance": 6932.0,
           "elevation_gain": 108.0,
           "moving_time": 2753.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18451631189"
+          ],
+          "count": 1,
+          "distance": 10339.0,
+          "elevation_gain": 110.0,
+          "moving_time": 4119.0
         }
       },
       "TrailRun": {
@@ -51575,7 +51593,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:42:15.596425+00:00",
+  "generated_at": "2026-05-10T15:43:20.232426+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
