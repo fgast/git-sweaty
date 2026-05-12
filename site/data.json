@@ -29231,6 +29231,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18451631189",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 18,
+      "name": "MyWhoosh - 5 minute strength #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18466774704",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51495,6 +51504,15 @@
           "distance": 29614.2,
           "elevation_gain": 156.6,
           "moving_time": 4305.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18466774704"
+          ],
+          "count": 1,
+          "distance": 29474.4,
+          "elevation_gain": 70.6,
+          "moving_time": 3971.0
         }
       },
       "Walk": {
@@ -51593,7 +51611,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:19:35.981939+00:00",
+  "generated_at": "2026-05-12T17:03:24.406686+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
