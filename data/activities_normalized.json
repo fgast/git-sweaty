@@ -42235,5 +42235,31 @@
     "start_date_local": "2026-05-11T18:41:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 9021.8,
+    "elevation_gain": 167.0,
+    "id": "18480235897",
+    "moving_time": 3397.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T18:35:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 24464.9,
+    "elevation_gain": 279.0,
+    "id": "18492166220",
+    "moving_time": 3823.0,
+    "name": "MyWhoosh - Mitochondria #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T16:35:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
