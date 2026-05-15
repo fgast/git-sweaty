@@ -42261,5 +42261,31 @@
     "start_date_local": "2026-05-13T16:35:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18507778639",
+    "moving_time": 3600.0,
+    "name": "port miou",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-14T19:26:21Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 2316.1,
+    "elevation_gain": 143.0,
+    "id": "18516830462",
+    "moving_time": 2640.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-15T14:24:19Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
