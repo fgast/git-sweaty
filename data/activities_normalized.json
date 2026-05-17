@@ -42287,5 +42287,31 @@
     "start_date_local": "2026-05-15T14:24:19Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18532296953",
+    "moving_time": 4200.0,
+    "name": "Goul du Pont",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-16T17:34:14Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18543320459",
+    "moving_time": 4205.0,
+    "name": "Tannerie",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-17T14:29:04Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

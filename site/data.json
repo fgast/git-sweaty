@@ -29276,6 +29276,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18516830462",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 17,
+      "name": "Goul du Pont",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18532296953",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 14,
+      "name": "Tannerie",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18543320459",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51679,11 +51697,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18532296953"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4200.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18543320459"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4205.0
         }
       }
     }
   },
-  "generated_at": "2026-05-16T15:49:52.662318+00:00",
+  "generated_at": "2026-05-17T15:51:15.339589+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
