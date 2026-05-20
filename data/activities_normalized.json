@@ -42326,5 +42326,31 @@
     "start_date_local": "2026-05-18T17:27:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 35702.5,
+    "elevation_gain": 655.2,
+    "id": "18571307316",
+    "moving_time": 7211.0,
+    "name": "MyWhoosh - 120 mit 2x20",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-19T17:41:34Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 14025.0,
+    "elevation_gain": 198.0,
+    "id": "18584036717",
+    "moving_time": 5528.0,
+    "name": "Lauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-20T17:02:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
