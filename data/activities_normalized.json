@@ -42356,7 +42356,7 @@
   {
     "date": "2026-05-21",
     "distance": 70604.3,
-    "elevation_gain": 695.0,
+    "elevation_gain": 42.0,
     "id": "18597584085",
     "moving_time": 8982.0,
     "name": "Fahrt am Nachmittag",
@@ -42377,6 +42377,32 @@
     "raw_type": "Ride",
     "start_date_local": "2026-05-22T16:49:31Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 2660.5,
+    "elevation_gain": 2.7,
+    "id": "18624077636",
+    "moving_time": 1206.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-23T18:10:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 13022.0,
+    "elevation_gain": 899.0,
+    "id": "18631642319",
+    "moving_time": 10035.0,
+    "name": "Traillauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-24T08:30:29Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]

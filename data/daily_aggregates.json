@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T15:55:51.077450+00:00",
+  "generated_at": "2026-05-24T15:55:29.247787+00:00",
   "years": {
     "2017": {
       "AlpineSki": {
@@ -21336,7 +21336,7 @@
           ],
           "count": 1,
           "distance": 70604.3,
-          "elevation_gain": 695.0,
+          "elevation_gain": 42.0,
           "moving_time": 8982.0
         },
         "2026-05-22": {
@@ -21790,6 +21790,15 @@
           "distance": 14025.0,
           "elevation_gain": 198.0,
           "moving_time": 5528.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18624077636"
+          ],
+          "count": 1,
+          "distance": 2660.5,
+          "elevation_gain": 2.7,
+          "moving_time": 1206.0
         }
       },
       "TrailRun": {
@@ -21864,6 +21873,15 @@
           "distance": 30395.0,
           "elevation_gain": 1839.0,
           "moving_time": 19762.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18631642319"
+          ],
+          "count": 1,
+          "distance": 13022.0,
+          "elevation_gain": 899.0,
+          "moving_time": 10035.0
         }
       },
       "VirtualRide": {
