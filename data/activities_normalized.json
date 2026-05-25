@@ -42404,5 +42404,18 @@
     "start_date_local": "2026-05-24T08:30:29Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 70617.0,
+    "elevation_gain": 41.4,
+    "id": "18644759511",
+    "moving_time": 9117.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T08:40:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

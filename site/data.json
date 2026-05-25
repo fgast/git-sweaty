@@ -29357,6 +29357,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18631642319",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 8,
+      "name": "Fahrt am Morgen",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18644759511",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50706,6 +50715,15 @@
           "distance": 100065.0,
           "elevation_gain": 0.0,
           "moving_time": 11011.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18644759511"
+          ],
+          "count": 1,
+          "distance": 70617.0,
+          "elevation_gain": 41.4,
+          "moving_time": 9117.0
         }
       },
       "Run": {
@@ -51845,7 +51863,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:55:29.282135+00:00",
+  "generated_at": "2026-05-25T16:59:52.834251+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
