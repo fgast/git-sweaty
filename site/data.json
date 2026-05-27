@@ -29366,6 +29366,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18644759511",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 18,
+      "name": "MyWhoosh - Sweetspot 4x8",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18664493094",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51729,6 +51738,15 @@
           "distance": 35702.5,
           "elevation_gain": 655.2,
           "moving_time": 7211.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18664493094"
+          ],
+          "count": 1,
+          "distance": 28556.4,
+          "elevation_gain": 709.0,
+          "moving_time": 7213.0
         }
       },
       "Walk": {
@@ -51863,7 +51881,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:51:57.552036+00:00",
+  "generated_at": "2026-05-27T17:52:25.922164+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

@@ -42417,5 +42417,18 @@
     "start_date_local": "2026-05-25T08:40:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 28556.4,
+    "elevation_gain": 709.0,
+    "id": "18664493094",
+    "moving_time": 7213.0,
+    "name": "MyWhoosh - Sweetspot 4x8",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-26T18:07:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
