@@ -42447,7 +42447,7 @@
   {
     "date": "2026-05-28",
     "distance": 51338.3,
-    "elevation_gain": 796.0,
+    "elevation_gain": 310.4,
     "id": "18691298995",
     "moving_time": 7274.0,
     "name": "Afternoon Ride",
@@ -42455,6 +42455,19 @@
     "raw_type": "Ride",
     "start_date_local": "2026-05-28T16:31:33Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 14199.8,
+    "elevation_gain": 983.7,
+    "id": "18699769378",
+    "moving_time": 10488.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-29T08:26:33Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]
