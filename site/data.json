@@ -29402,6 +29402,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18699769378",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 18,
+      "name": "MyWhoosh - Al Wathba-S",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18718078568",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51801,6 +51810,15 @@
           "distance": 42575.3,
           "elevation_gain": 59.6,
           "moving_time": 5459.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18718078568"
+          ],
+          "count": 1,
+          "distance": 8511.2,
+          "elevation_gain": 10.6,
+          "moving_time": 1276.0
         }
       },
       "Walk": {
@@ -51935,7 +51953,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T15:59:03.489461+00:00",
+  "generated_at": "2026-05-31T16:00:17.252749+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

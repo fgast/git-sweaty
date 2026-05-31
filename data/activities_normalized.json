@@ -42469,5 +42469,18 @@
     "start_date_local": "2026-05-29T08:26:33Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 8511.2,
+    "elevation_gain": 10.6,
+    "id": "18718078568",
+    "moving_time": 1276.0,
+    "name": "MyWhoosh - Al Wathba-S",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-30T18:10:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
