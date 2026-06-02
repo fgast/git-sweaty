@@ -42508,5 +42508,18 @@
     "start_date_local": "2026-06-01T19:19:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 25779.2,
+    "elevation_gain": 375.4,
+    "id": "18759012010",
+    "moving_time": 4541.0,
+    "name": "MyWhoosh - 3x10",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-02T18:26:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
