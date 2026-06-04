@@ -42525,7 +42525,7 @@
   {
     "date": "2026-06-03",
     "distance": 12330.8,
-    "elevation_gain": 149.0,
+    "elevation_gain": 18.9,
     "id": "18773912227",
     "moving_time": 4811.0,
     "name": "Evening Run",
@@ -42533,6 +42533,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-06-03T19:08:42Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 66779.0,
+    "elevation_gain": 482.0,
+    "id": "18782630508",
+    "moving_time": 9216.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T10:34:46Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
