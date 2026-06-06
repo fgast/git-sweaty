@@ -42551,13 +42551,52 @@
   {
     "date": "2026-06-05",
     "distance": 993.9,
-    "elevation_gain": 37.0,
+    "elevation_gain": 5.9,
     "id": "18798801795",
     "moving_time": 933.0,
     "name": "Wanderung am Nachmittag",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-06-05T17:33:25Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 849.0,
+    "elevation_gain": 34.0,
+    "id": "18805576262",
+    "moving_time": 626.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-06T08:49:24Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 1747.0,
+    "elevation_gain": 46.0,
+    "id": "18811620098",
+    "moving_time": 1122.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-06T09:29:44Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 1153.4,
+    "elevation_gain": 81.0,
+    "id": "18811752537",
+    "moving_time": 1121.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-06T16:48:37Z",
     "type": "Hike",
     "year": 2026
   }
