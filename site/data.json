@@ -29492,6 +29492,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18811752537",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 8,
+      "name": "Wanderung am Morgen",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18824967030",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 15,
+      "name": "Wanderung am Nachmittag",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18824978548",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50733,6 +50751,16 @@
           "distance": 3749.4,
           "elevation_gain": 161.0,
           "moving_time": 2869.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18824967030",
+            "18824978548"
+          ],
+          "count": 2,
+          "distance": 2205.7,
+          "elevation_gain": 126.0,
+          "moving_time": 2189.0
         }
       },
       "Ride": {
@@ -52099,7 +52127,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T16:01:42.942265+00:00",
+  "generated_at": "2026-06-07T16:07:02.554999+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
