@@ -29555,6 +29555,51 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18865950750",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 16,
+      "name": "Wanderung am Nachmittag",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18873822942",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 9,
+      "name": "Wanderung am Morgen",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18875912553",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 11,
+      "name": "Mittagswanderung",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18876116974",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 15,
+      "name": "Wanderung am Nachmittag",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18878363208",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 15,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18880717188",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50829,12 +50874,25 @@
         },
         "2026-06-10": {
           "activity_ids": [
-            "18865950750"
+            "18865950750",
+            "18873822942"
           ],
-          "count": 1,
-          "distance": 1130.0,
-          "elevation_gain": 45.0,
-          "moving_time": 1069.0
+          "count": 2,
+          "distance": 2228.9,
+          "elevation_gain": 133.0,
+          "moving_time": 2149.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18875912553",
+            "18876116974",
+            "18878363208",
+            "18880717188"
+          ],
+          "count": 4,
+          "distance": 5845.3,
+          "elevation_gain": 271.0,
+          "moving_time": 5090.0
         }
       },
       "Ride": {
@@ -52201,7 +52259,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T17:51:58.520454+00:00",
+  "generated_at": "2026-06-11T18:06:01.276521+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
