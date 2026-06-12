@@ -29600,6 +29600,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18880717188",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 9,
+      "name": "Wanderung am Morgen",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18891079352",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50893,6 +50902,15 @@
           "distance": 5845.3,
           "elevation_gain": 271.0,
           "moving_time": 5090.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18891079352"
+          ],
+          "count": 1,
+          "distance": 4140.9,
+          "elevation_gain": 105.0,
+          "moving_time": 2770.0
         }
       },
       "Ride": {
@@ -52259,7 +52277,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:06:01.276521+00:00",
+  "generated_at": "2026-06-12T17:32:06.009742+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

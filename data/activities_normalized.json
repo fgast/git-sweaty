@@ -42755,5 +42755,18 @@
     "start_date_local": "2026-06-11T15:41:53Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 4140.9,
+    "elevation_gain": 105.0,
+    "id": "18891079352",
+    "moving_time": 2770.0,
+    "name": "Wanderung am Morgen",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-12T09:14:45Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
