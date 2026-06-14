@@ -42768,5 +42768,18 @@
     "start_date_local": "2026-06-12T09:14:45Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18908667259",
+    "moving_time": 60.0,
+    "name": "Nachttraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-13T22:25:03Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
