@@ -42781,5 +42781,18 @@
     "start_date_local": "2026-06-13T22:25:03Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 12838.7,
+    "elevation_gain": 14.8,
+    "id": "18945565650",
+    "moving_time": 1834.0,
+    "name": "MyWhoosh - Al Wathba-S",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-16T17:57:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

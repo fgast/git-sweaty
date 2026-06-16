@@ -29618,6 +29618,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18908667259",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 17,
+      "name": "MyWhoosh - Al Wathba-S",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18945565650",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52152,6 +52161,15 @@
           "distance": 25779.2,
           "elevation_gain": 375.4,
           "moving_time": 4541.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18945565650"
+          ],
+          "count": 1,
+          "distance": 12838.7,
+          "elevation_gain": 14.8,
+          "moving_time": 1834.0
         }
       },
       "Walk": {
@@ -52295,7 +52313,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:00:30.084101+00:00",
+  "generated_at": "2026-06-16T18:52:15.520464+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
