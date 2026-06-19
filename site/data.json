@@ -29636,6 +29636,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18959324400",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 10,
+      "name": "ZUT Garmisch Trail by UTMB",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18985109149",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51646,6 +51655,15 @@
           "distance": 14199.8,
           "elevation_gain": 983.7,
           "moving_time": 10488.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18985109149"
+          ],
+          "count": 1,
+          "distance": 29519.8,
+          "elevation_gain": 2014.0,
+          "moving_time": 20276.0
         }
       },
       "VirtualRide": {
@@ -52331,7 +52349,7 @@
       }
     }
   },
-  "generated_at": "2026-06-18T17:55:43.035895+00:00",
+  "generated_at": "2026-06-19T17:12:06.364740+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
