@@ -42820,5 +42820,44 @@
     "start_date_local": "2026-06-19T10:07:21Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 20310.4,
+    "elevation_gain": 23.0,
+    "id": "19038475437",
+    "moving_time": 2857.0,
+    "name": "MyWhoosh - Al Wathba-S",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-23T18:38:18Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 5875.0,
+    "elevation_gain": 48.0,
+    "id": "19044847256",
+    "moving_time": 2408.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T07:01:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 1300.0,
+    "elevation_gain": 0.0,
+    "id": "19051093091",
+    "moving_time": 2081.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-24T17:35:04Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

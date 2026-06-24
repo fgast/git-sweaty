@@ -29645,6 +29645,33 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18985109149",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 18,
+      "name": "MyWhoosh - Al Wathba-S",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19038475437",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19044847256",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 17,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19051093091",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51563,6 +51590,26 @@
           "distance": 12330.8,
           "elevation_gain": 18.9,
           "moving_time": 4811.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19044847256"
+          ],
+          "count": 1,
+          "distance": 5875.0,
+          "elevation_gain": 48.0,
+          "moving_time": 2408.0
+        }
+      },
+      "Swim": {
+        "2026-06-24": {
+          "activity_ids": [
+            "19051093091"
+          ],
+          "count": 1,
+          "distance": 1300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2081.0
         }
       },
       "TrailRun": {
@@ -52197,6 +52244,15 @@
           "distance": 12838.7,
           "elevation_gain": 14.8,
           "moving_time": 1834.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19038475437"
+          ],
+          "count": 1,
+          "distance": 20310.4,
+          "elevation_gain": 23.0,
+          "moving_time": 2857.0
         }
       },
       "Walk": {
@@ -52349,7 +52405,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T17:10:52.828487+00:00",
+  "generated_at": "2026-06-24T16:59:22.529384+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
