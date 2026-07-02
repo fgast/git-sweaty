@@ -42937,5 +42937,31 @@
     "start_date_local": "2026-07-01T07:02:41Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "19141813615",
+    "moving_time": 1589.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-01T18:46:35Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 5952.0,
+    "elevation_gain": 61.0,
+    "id": "19141813738",
+    "moving_time": 1134.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-01T18:15:47Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
