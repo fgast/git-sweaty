@@ -42989,5 +42989,18 @@
     "start_date_local": "2026-07-03T12:56:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 17592.1,
+    "elevation_gain": 75.4,
+    "id": "19176086288",
+    "moving_time": 2431.0,
+    "name": "MyWhoosh - 3x2 Min Shakeout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-04T14:20:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
