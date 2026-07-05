@@ -43002,5 +43002,44 @@
     "start_date_local": "2026-07-04T14:20:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 10460.5,
+    "elevation_gain": 234.0,
+    "id": "19187275012",
+    "moving_time": 4113.0,
+    "name": "Tegernsee Triathlon - OD - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T11:16:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 38711.4,
+    "elevation_gain": 489.0,
+    "id": "19187275169",
+    "moving_time": 4894.0,
+    "name": "Tegernsee Triathlon - OD - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-05T09:52:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 1654.7,
+    "elevation_gain": 0.0,
+    "id": "19187275225",
+    "moving_time": 2161.0,
+    "name": "Tegernsee Triathlon - OD - Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-05T09:09:49Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
