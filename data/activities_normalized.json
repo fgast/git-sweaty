@@ -43119,5 +43119,18 @@
     "start_date_local": "2026-07-10T16:07:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 146847.0,
+    "elevation_gain": 1746.0,
+    "id": "19280442446",
+    "moving_time": 18964.0,
+    "name": "24h Rennen Kelheim",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T15:02:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
