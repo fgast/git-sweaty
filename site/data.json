@@ -29879,6 +29879,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19308312834",
       "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 8,
+      "name": "Lauf am Morgen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19319228768",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51950,6 +51959,15 @@
           "distance": 6730.0,
           "elevation_gain": 31.0,
           "moving_time": 2716.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19319228768"
+          ],
+          "count": 1,
+          "distance": 8048.0,
+          "elevation_gain": 35.0,
+          "moving_time": 3253.0
         }
       },
       "Swim": {
@@ -52819,7 +52837,7 @@
       }
     }
   },
-  "generated_at": "2026-07-14T16:08:11.540641+00:00",
+  "generated_at": "2026-07-15T16:13:16.228299+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

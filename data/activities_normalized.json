@@ -43158,5 +43158,18 @@
     "start_date_local": "2026-07-14T13:23:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 8048.0,
+    "elevation_gain": 35.0,
+    "id": "19319228768",
+    "moving_time": 3253.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T08:05:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
