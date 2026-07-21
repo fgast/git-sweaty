@@ -29915,6 +29915,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19380496167",
       "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 19,
+      "name": "MyWhoosh - Recovery 60",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19392297318",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19398599554",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 16,
+      "name": "Gravel-Fahrt am Nachmittag",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19404296897",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51125,6 +51152,15 @@
           "distance": 5952.0,
           "elevation_gain": 61.0,
           "moving_time": 1134.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19404296897"
+          ],
+          "count": 1,
+          "distance": 6681.1,
+          "elevation_gain": 55.0,
+          "moving_time": 1146.0
         }
       },
       "Hike": {
@@ -51995,6 +52031,15 @@
           "distance": 8048.0,
           "elevation_gain": 35.0,
           "moving_time": 3253.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19398599554"
+          ],
+          "count": 1,
+          "distance": 7686.0,
+          "elevation_gain": 67.0,
+          "moving_time": 3016.0
         }
       },
       "Swim": {
@@ -52730,6 +52775,15 @@
           "distance": 17651.0,
           "elevation_gain": 156.4,
           "moving_time": 2887.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19392297318"
+          ],
+          "count": 1,
+          "distance": 21348.8,
+          "elevation_gain": 210.6,
+          "moving_time": 3664.0
         }
       },
       "Walk": {
@@ -52893,7 +52947,7 @@
       }
     }
   },
-  "generated_at": "2026-07-20T16:19:53.067484+00:00",
+  "generated_at": "2026-07-21T16:16:21.916409+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

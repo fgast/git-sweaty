@@ -43210,5 +43210,44 @@
     "start_date_local": "2026-07-19T19:33:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 21348.8,
+    "elevation_gain": 210.6,
+    "id": "19392297318",
+    "moving_time": 3664.0,
+    "name": "MyWhoosh - Recovery 60",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-20T19:13:19Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 7686.0,
+    "elevation_gain": 67.0,
+    "id": "19398599554",
+    "moving_time": 3016.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T08:01:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 6681.1,
+    "elevation_gain": 55.0,
+    "id": "19404296897",
+    "moving_time": 1146.0,
+    "name": "Gravel-Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-21T16:34:26Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
