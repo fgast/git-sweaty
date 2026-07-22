@@ -43249,5 +43249,31 @@
     "start_date_local": "2026-07-21T16:34:26Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 41461.9,
+    "elevation_gain": 111.0,
+    "id": "19406994251",
+    "moving_time": 5510.0,
+    "name": "MyWhoosh - Limmat Loop",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-21T18:38:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 28662.3,
+    "elevation_gain": 203.0,
+    "id": "19418482648",
+    "moving_time": 4567.0,
+    "name": "MyWhoosh - Easy 75",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-22T15:06:23Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
