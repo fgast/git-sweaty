@@ -43275,5 +43275,44 @@
     "start_date_local": "2026-07-22T15:06:23Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 9223.0,
+    "elevation_gain": 32.0,
+    "id": "19434145382",
+    "moving_time": 3611.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-23T17:22:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 27955.4,
+    "elevation_gain": 204.0,
+    "id": "19446968353",
+    "moving_time": 4536.0,
+    "name": "MyWhoosh - Easy 75",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-24T16:08:25Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 6242.0,
+    "elevation_gain": 11.0,
+    "id": "19448025311",
+    "moving_time": 2477.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T18:10:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
