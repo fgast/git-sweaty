@@ -29987,6 +29987,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19448025311",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 18,
+      "name": "MyWhoosh - Zone 2 Endurance #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19462136417",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52874,6 +52883,15 @@
           "distance": 27955.4,
           "elevation_gain": 204.0,
           "moving_time": 4536.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19462136417"
+          ],
+          "count": 1,
+          "distance": 23812.0,
+          "elevation_gain": 218.2,
+          "moving_time": 3645.0
         }
       },
       "Walk": {
@@ -53037,7 +53055,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T15:57:00.644328+00:00",
+  "generated_at": "2026-07-26T15:55:36.091677+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

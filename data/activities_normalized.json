@@ -43314,5 +43314,18 @@
     "start_date_local": "2026-07-24T18:10:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 23812.0,
+    "elevation_gain": 218.2,
+    "id": "19462136417",
+    "moving_time": 3645.0,
+    "name": "MyWhoosh - Zone 2 Endurance #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-25T18:01:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
