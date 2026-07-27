@@ -29996,6 +29996,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19462136417",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 20,
+      "name": "MyWhoosh - Mitochondria #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19477323489",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 21,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19477711170",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52892,6 +52910,15 @@
           "distance": 23812.0,
           "elevation_gain": 218.2,
           "moving_time": 3645.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19477323489"
+          ],
+          "count": 1,
+          "distance": 17983.4,
+          "elevation_gain": 441.0,
+          "moving_time": 3670.0
         }
       },
       "Walk": {
@@ -52959,6 +52986,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1790.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19477711170"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1266.0
         }
       },
       "Workout": {
@@ -53055,7 +53091,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T15:55:36.091677+00:00",
+  "generated_at": "2026-07-27T16:52:41.474439+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

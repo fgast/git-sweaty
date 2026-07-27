@@ -43327,5 +43327,31 @@
     "start_date_local": "2026-07-25T18:01:07Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 17983.4,
+    "elevation_gain": 441.0,
+    "id": "19477323489",
+    "moving_time": 3670.0,
+    "name": "MyWhoosh - Mitochondria #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-26T20:02:24Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19477711170",
+    "moving_time": 1266.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-26T21:23:16Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
