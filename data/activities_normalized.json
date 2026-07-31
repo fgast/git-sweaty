@@ -43405,5 +43405,44 @@
     "start_date_local": "2026-07-30T07:12:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 10103.0,
+    "elevation_gain": 105.8,
+    "id": "19531905931",
+    "moving_time": 1807.0,
+    "name": "MyWhoosh - Tour de Corse",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-30T18:56:35Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 10357.9,
+    "elevation_gain": 760.0,
+    "id": "19539455428",
+    "moving_time": 6599.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-31T08:48:05Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 3499.0,
+    "elevation_gain": 16.0,
+    "id": "19539925361",
+    "moving_time": 2900.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-31T10:46:20Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
