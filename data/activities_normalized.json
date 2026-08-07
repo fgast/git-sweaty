@@ -43535,5 +43535,44 @@
     "start_date_local": "2026-08-05T07:37:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 8018.2,
+    "elevation_gain": 8.0,
+    "id": "19622564545",
+    "moving_time": 3130.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T07:44:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19627710035",
+    "moving_time": 907.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-06T16:02:23Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 6356.0,
+    "elevation_gain": 9.0,
+    "id": "19636780505",
+    "moving_time": 2480.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-07T08:20:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
