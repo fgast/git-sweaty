@@ -43574,5 +43574,31 @@
     "start_date_local": "2026-08-07T08:20:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 11165.0,
+    "elevation_gain": 17.8,
+    "id": "19643927950",
+    "moving_time": 1530.0,
+    "name": "MyWhoosh - Al Wathba-L",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-07T19:19:58Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 6681.0,
+    "elevation_gain": 283.0,
+    "id": "19653403870",
+    "moving_time": 6698.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-08T11:44:11Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
