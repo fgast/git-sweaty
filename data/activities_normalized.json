@@ -43730,5 +43730,31 @@
     "start_date_local": "2026-08-17T18:44:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 8158.0,
+    "elevation_gain": 11.0,
+    "id": "19797572504",
+    "moving_time": 3060.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T18:54:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19807687714",
+    "moving_time": 2911.0,
+    "name": "Gewichtstraining zur Mittagszeit",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-19T12:57:42Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
