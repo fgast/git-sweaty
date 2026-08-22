@@ -43782,5 +43782,31 @@
     "start_date_local": "2026-08-20T16:31:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 16809.4,
+    "elevation_gain": 71.2,
+    "id": "19840859297",
+    "moving_time": 2521.0,
+    "name": "MyWhoosh - Sweetspot Training",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-21T20:08:07Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 22084.0,
+    "elevation_gain": 0.0,
+    "id": "19840860536",
+    "moving_time": 2492.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-21T20:08:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
