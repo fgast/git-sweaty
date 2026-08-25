@@ -43808,5 +43808,18 @@
     "start_date_local": "2026-08-21T20:08:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 8088.0,
+    "elevation_gain": 11.0,
+    "id": "19880785746",
+    "moving_time": 3131.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-24T18:04:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
