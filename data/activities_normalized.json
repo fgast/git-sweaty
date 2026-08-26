@@ -43821,5 +43821,44 @@
     "start_date_local": "2026-08-24T18:04:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 11780.0,
+    "elevation_gain": 5.0,
+    "id": "19895378249",
+    "moving_time": 4283.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T17:16:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19896596968",
+    "moving_time": 1207.0,
+    "name": "Moblity",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-08-25T19:22:25Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 7491.0,
+    "elevation_gain": 9.0,
+    "id": "19903886171",
+    "moving_time": 2880.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T08:14:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

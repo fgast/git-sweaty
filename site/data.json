@@ -30338,6 +30338,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19880785746",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19895378249",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 19,
+      "name": "Moblity",
+      "subtype": "PhysicalTherapy",
+      "type": "PhysicalTherapy",
+      "url": "https://www.strava.com/activities/19896596968",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19903886171",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51687,6 +51714,17 @@
           "moving_time": 6698.0
         }
       },
+      "PhysicalTherapy": {
+        "2026-08-25": {
+          "activity_ids": [
+            "19896596968"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1207.0
+        }
+      },
       "Ride": {
         "2026-01-11": {
           "activity_ids": [
@@ -52643,6 +52681,24 @@
           "distance": 8088.0,
           "elevation_gain": 11.0,
           "moving_time": 3131.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19895378249"
+          ],
+          "count": 1,
+          "distance": 11780.0,
+          "elevation_gain": 5.0,
+          "moving_time": 4283.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19903886171"
+          ],
+          "count": 1,
+          "distance": 7491.0,
+          "elevation_gain": 9.0,
+          "moving_time": 2880.0
         }
       },
       "Swim": {
@@ -53739,7 +53795,7 @@
       }
     }
   },
-  "generated_at": "2026-08-25T15:33:23.368845+00:00",
+  "generated_at": "2026-08-26T16:11:16.996300+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
@@ -53757,6 +53813,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "PhysicalTherapy": {
+      "accent": "#9b5de5",
+      "label": "Physical Therapy"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -53812,7 +53872,8 @@
     "VirtualRide",
     "Walk",
     "WeightTraining",
-    "Workout"
+    "Workout",
+    "PhysicalTherapy"
   ],
   "units": {
     "distance": "km",
