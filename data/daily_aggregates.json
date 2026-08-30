@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:01:22.445863+00:00",
+  "generated_at": "2026-08-30T18:16:01.085993+00:00",
   "years": {
     "2017": {
       "AlpineSki": {
@@ -22350,6 +22350,15 @@
           "distance": 6129.0,
           "elevation_gain": 27.0,
           "moving_time": 2404.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19953286438"
+          ],
+          "count": 1,
+          "distance": 9665.0,
+          "elevation_gain": 17.0,
+          "moving_time": 3608.0
         }
       },
       "Swim": {
