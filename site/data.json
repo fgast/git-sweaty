@@ -30482,6 +30482,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/20046140894",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20083932690",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20091456390",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52148,6 +52166,15 @@
           "distance": 17416.0,
           "elevation_gain": 0.0,
           "moving_time": 2170.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20091456390"
+          ],
+          "count": 1,
+          "distance": 12610.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1880.0
         }
       },
       "Run": {
@@ -52924,6 +52951,15 @@
           "distance": 6010.0,
           "elevation_gain": 11.0,
           "moving_time": 2417.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20083932690"
+          ],
+          "count": 1,
+          "distance": 13012.9,
+          "elevation_gain": 20.0,
+          "moving_time": 4838.0
         }
       },
       "Swim": {
@@ -54029,7 +54065,7 @@
       }
     }
   },
-  "generated_at": "2026-09-07T18:55:51.415577+00:00",
+  "generated_at": "2026-09-08T18:11:37.953271+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
