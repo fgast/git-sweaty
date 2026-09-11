@@ -44081,5 +44081,31 @@
     "start_date_local": "2026-09-10T16:55:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 7193.3,
+    "elevation_gain": 18.0,
+    "id": "20128260562",
+    "moving_time": 1393.0,
+    "name": "Lunch Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-11T12:06:23Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 25807.0,
+    "elevation_gain": 0.0,
+    "id": "20133042681",
+    "moving_time": 3602.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-11T18:23:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
