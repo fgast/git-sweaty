@@ -44107,5 +44107,18 @@
     "start_date_local": "2026-09-11T18:23:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 26368.0,
+    "elevation_gain": 1221.0,
+    "id": "20156100144",
+    "moving_time": 14656.0,
+    "name": "Wild 25 @ Wildstrubel by UTMB",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-09-13T08:30:16Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
