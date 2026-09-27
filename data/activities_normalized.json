@@ -44263,5 +44263,18 @@
     "start_date_local": "2026-09-26T10:33:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 42428.0,
+    "elevation_gain": 70.0,
+    "id": "20352176205",
+    "moving_time": 16733.0,
+    "name": "BMW Berlin Marathon 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T10:14:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

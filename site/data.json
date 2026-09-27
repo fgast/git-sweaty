@@ -30644,6 +30644,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20333724358",
       "year": 2026
+    },
+    {
+      "date": "2026-09-27",
+      "hour": 10,
+      "name": "BMW Berlin Marathon 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20352176205",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53230,6 +53239,15 @@
           "distance": 5098.1,
           "elevation_gain": 2.0,
           "moving_time": 2821.0
+        },
+        "2026-09-27": {
+          "activity_ids": [
+            "20352176205"
+          ],
+          "count": 1,
+          "distance": 42428.0,
+          "elevation_gain": 70.0,
+          "moving_time": 16733.0
         }
       },
       "Swim": {
@@ -54353,7 +54371,7 @@
       }
     }
   },
-  "generated_at": "2026-09-26T18:10:11.135904+00:00",
+  "generated_at": "2026-09-27T18:46:25.204659+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
