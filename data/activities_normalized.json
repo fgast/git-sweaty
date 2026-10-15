@@ -44445,5 +44445,31 @@
     "start_date_local": "2026-10-14T17:44:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 8279.6,
+    "elevation_gain": 9.0,
+    "id": "20593613237",
+    "moving_time": 3320.0,
+    "name": "Mittagslauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-15T11:48:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 36834.0,
+    "elevation_gain": 0.0,
+    "id": "20599114474",
+    "moving_time": 3810.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-15T18:52:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
