@@ -44527,7 +44527,7 @@
   {
     "date": "2026-10-21",
     "distance": 5085.5,
-    "elevation_gain": 16.0,
+    "elevation_gain": 18.5,
     "id": "20673531512",
     "moving_time": 2100.0,
     "name": "Lauf am Nachmittag",
@@ -44547,6 +44547,19 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-10-21T17:22:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 36642.0,
+    "elevation_gain": 0.0,
+    "id": "20689681719",
+    "moving_time": 3735.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-22T16:52:43Z",
     "type": "Ride",
     "year": 2026
   }
