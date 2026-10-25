@@ -44601,5 +44601,18 @@
     "start_date_local": "2026-10-24T17:02:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 11024.0,
+    "elevation_gain": 52.0,
+    "id": "20727405206",
+    "moving_time": 4372.0,
+    "name": "Lauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T14:58:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
