@@ -30932,6 +30932,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20779038043",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 16,
+      "name": "Traillauf am Nachmittag",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/20793555072",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54026,6 +54035,15 @@
           "distance": 26368.0,
           "elevation_gain": 1221.0,
           "moving_time": 14656.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20793555072"
+          ],
+          "count": 1,
+          "distance": 12036.0,
+          "elevation_gain": 301.0,
+          "moving_time": 5044.0
         }
       },
       "VirtualRide": {
@@ -54929,7 +54947,7 @@
       }
     }
   },
-  "generated_at": "2026-10-29T19:57:55.524336+00:00",
+  "generated_at": "2026-10-30T19:46:56.318051+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",
