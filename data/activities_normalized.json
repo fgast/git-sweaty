@@ -44692,5 +44692,18 @@
     "start_date_local": "2026-10-30T16:38:45Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 45916.3,
+    "elevation_gain": 0.0,
+    "id": "20846824967",
+    "moving_time": 4857.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-03T18:40:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
