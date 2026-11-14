@@ -44835,5 +44835,18 @@
     "start_date_local": "2026-11-13T14:10:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 12800.0,
+    "elevation_gain": 0.0,
+    "id": "20981465947",
+    "moving_time": 5401.0,
+    "name": "Laufband am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T09:36:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
