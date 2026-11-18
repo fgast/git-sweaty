@@ -44900,5 +44900,18 @@
     "start_date_local": "2026-11-17T17:56:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 40458.6,
+    "elevation_gain": 0.0,
+    "id": "21037826623",
+    "moving_time": 4705.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-18T18:16:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
