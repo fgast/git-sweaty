@@ -31175,6 +31175,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21122206134",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 18,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21135487580",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54265,6 +54274,15 @@
           "distance": 10316.8,
           "elevation_gain": 0.0,
           "moving_time": 3903.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21135487580"
+          ],
+          "count": 1,
+          "distance": 12200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4932.0
         }
       },
       "Swim": {
@@ -55415,7 +55433,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:25:05.003908+00:00",
+  "generated_at": "2026-11-26T23:24:54.223855+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/22249770",
   "repo": "fgast/git-sweaty",

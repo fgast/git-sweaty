@@ -45030,5 +45030,18 @@
     "start_date_local": "2026-11-25T17:48:14Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 12200.0,
+    "elevation_gain": 0.0,
+    "id": "21135487580",
+    "moving_time": 4932.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T18:33:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
